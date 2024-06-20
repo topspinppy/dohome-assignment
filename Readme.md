@@ -6,14 +6,13 @@ This repository contains solutions to two CSS and Next.js challenges. Each chall
 ## Challenge 1: CSS Challenge
 
 ### Example
-![CSS Challenge Example](./images/css-challenge-example.png)
+![CleanShot 2567-06-20 at 11 20 38@2x](https://github.com/topspinppy/dohome-assignment/assets/18381211/98d02611-9156-4687-bd91-61aaef29d9f8)
+
 
 ## Challenge 2: Next.js Challenge
-### Description
-In this challenge, the goal was to build a small Next.js application that fetches data from an API and displays
-
 ### Example
-![Next.js Challenge Example](./images/nextjs-challenge-example.png)
+![CleanShot 2567-06-20 at 22 54 17](https://github.com/topspinppy/dohome-assignment/assets/18381211/8c4959b6-cf56-4f39-9c3d-2fc524cdf259)
+
 
 ## Getting Started
 
