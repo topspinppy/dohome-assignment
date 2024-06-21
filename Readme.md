@@ -54,13 +54,5 @@ yarn dev
 ```
 Then, open your browser and navigate to `http://localhost:3000`.
 
-## Screenshots
-
-### CSS Challenge
-![CSS Challenge Screenshot](./images/css-challenge-screenshot.png)
-
-### Next.js Challenge
-![Next.js Challenge Screenshot](./images/nextjs-challenge-screenshot.png)
-
 ## License
 This project is licensed under the MIT License.
